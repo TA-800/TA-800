@@ -1,5 +1,7 @@
 # TA-800
 
+Aspiring full-stack developer.
+
 ### Advanced
 
 [![TA-800's GitHub statistics](https://github-readme-stats.vercel.app/api?username=TA-800)](https://github.com/anuraghazra/github-readme-stats)
