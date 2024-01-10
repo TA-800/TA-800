@@ -1,6 +1,6 @@
 # TA-800
 
-Aspiring full-stack web developer.
+Software Developer.
 
 ### Advanced
 
